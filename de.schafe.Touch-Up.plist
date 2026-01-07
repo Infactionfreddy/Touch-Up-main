@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>de.schafe.Touch-Up</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/frede/Library/Developer/Xcode/DerivedData/Touch_Up-bxbbllgubvtwxedhtdirnoaigfxa/Build/Products/Debug/Touch Up.app/Contents/MacOS/Touch Up</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/tmp/touch-up.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/touch-up-error.log</string>
+</dict>
+</plist>

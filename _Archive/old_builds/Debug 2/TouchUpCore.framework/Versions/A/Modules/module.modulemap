@@ -1,0 +1,6 @@
+framework module TouchUpCore {
+  umbrella header "TouchUpCore.h"
+  export *
+
+  module * { export * }
+}
